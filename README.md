@@ -6,7 +6,7 @@ git add README.md
 git commit -m "第一次提交" 
 git branch -M main 
 git remote add origin git@github.com:xrw002/-.git
- git push -u origin main
+git push -u origin main
 ````
 ...或者从命令行推送现有的存储库
 ```
